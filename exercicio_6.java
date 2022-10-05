@@ -1,4 +1,4 @@
-// Crie um programa em Java que faça 2 perguntas ao usuário: primeiro, pergunte o ano de nascimento. Depois, pergunte o ano atual. Em seguida, exiba na tela o texto “Sua idade é x ou y”, onde x é a idade do usuário caso ele já tenha feito aniversário neste ano, e y é a idade caso ele ainda não tenha aniversariado no ano corrente.
+// Crie um programa em Java que faça 2 perguntas ao usuário: primeiro, pergunte o ano de nascimento. Depois, pergunte o ano atual. Em seguida, exiba na tela o texto “Sua idade é x ou y”, onde x é a idade do usuário caso ele já tenha feito aniversário neste ano, e y é a idade caso ele ainda não tenha aniversariado no ano corrente...
 
 package modulo_1_semana_1;
 
